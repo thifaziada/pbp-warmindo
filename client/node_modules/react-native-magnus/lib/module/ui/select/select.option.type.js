@@ -1,0 +1,2 @@
+export {};
+//# sourceMappingURL=select.option.type.js.map

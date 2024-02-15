@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["dropdown.option.type.tsx"],"sourcesContent":["import { ButtonProps } from '../button/button.type';\n\nexport interface DropdownOptionProps extends ButtonProps {\n  value: any;\n  onSelect?: (value: any) => void;\n}\n"],"mappings":""}

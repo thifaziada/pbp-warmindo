@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["header.type.tsx"],"sourcesContent":["import { PrefixSuffixPropsType, TextPropsType } from '../../types';\nimport { DivProps } from '../div/div.type';\n\nexport interface HeaderProps\n  extends DivProps,\n    PrefixSuffixPropsType,\n    TextPropsType {\n  alignment?: 'center' | 'left';\n}\n"],"mappings":""}
